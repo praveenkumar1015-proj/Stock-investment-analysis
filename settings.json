@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/HP/anaconda3/envs/my-project/python.exe",
+    "python.formatting.provider": "black",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.formatOnSave": true
+    }
+}
