@@ -194,9 +194,7 @@ The dashboard helps users:
 
 ---
 
-# 👨‍💻 Resume Project Description
-
-**Investment Analysis of NIFTY 500 Stocks using SQL, Python, MySQL, and Power BI**
+# conclusion
 
 Collected and cleaned NIFTY 500 stock market data (500 companies) using Excel and stored it in MySQL for efficient querying. Performed statistical analysis and exploratory data analysis (EDA) using SQL and Python to evaluate stock growth, risk, investment opportunities, and sector-wise market trends. Developed an interactive Power BI dashboard to visualize industry distribution, top growth stocks, and investment opportunities across 10+ market sectors, enabling data-driven investment insights.
 
